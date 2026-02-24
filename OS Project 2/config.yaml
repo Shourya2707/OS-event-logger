@@ -1,0 +1,48 @@
+# Real-Time OS Security Event Logger Configuration
+
+# Events to monitor (set to true/false to enable/disable)
+monitored_events:
+  login_attempt: true
+  file_access: true
+  process_creation: true
+  network_connection: true
+  privilege_escalation: true
+  
+# Database configuration
+database:
+  path: "security_events.db"
+  backup_interval: 86400  # seconds (1 day)
+  max_size: 104857600  # bytes (100 MB)
+  
+# Analysis configuration
+analysis:
+  # Anomaly detection settings
+  anomaly_detection:
+    time_window: 300  # seconds (5 minutes)
+    threshold_factor: 2.0  # standard deviations
+    minimum_count: 5  # minimum events to consider a potential anomaly
+    
+  # Persistence settings
+  persistence:
+    output_file: "analysis_results.json"
+    log_level: "info"  # debug, info, warning, error
+    
+# Simulation configuration (for demonstration purposes)
+simulation:
+  enabled: true
+  interval_min: 1  # minimum seconds between events
+  interval_max: 3  # maximum seconds between events
+  
+# GUI configuration
+gui:
+  auto_refresh: true
+  refresh_interval: 2  # seconds
+  max_display_events: 100
+  theme: "system"  # system, light, dark
+  
+# Logging configuration
+logging:
+  file: "security_logger.log"
+  level: "info"  # debug, info, warning, error
+  rotation: "daily"  # hourly, daily, weekly
+  format: "[%(asctime)s] %(levelname)s: %(message)s" 

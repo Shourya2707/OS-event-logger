@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Real-Time OS Security Event Logger</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Real-Time OS Security Event Logger</h1>
+            <p class="subtitle">Monitor, analyze, and visualize OS-level security events</p>
+        </div>
+    </header>
+
+    <nav>
+        <div class="container">
+            <ul>
+                <li><a href="#overview">Overview</a></li>
+                <li><a href="#features">Features</a></li>
+                <li><a href="#architecture">Architecture</a></li>
+                <li><a href="#installation">Installation</a></li>
+                <li><a href="#usage">Usage</a></li>
+                <li><a href="#extending">Extending</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <main class="container">
+        <section id="overview">
+            <h2>Project Overview</h2>
+            <div class="overview-content">
+                <div class="overview-text">
+                    <p>The Real-Time OS Security Event Logger is a comprehensive tool designed to capture, analyze, and visualize security-related events at the operating system level. It provides real-time monitoring capabilities, analysis for potential security issues, and a user-friendly interface for security professionals.</p>
+                    <p>While this version simulates security events for demonstration purposes, the architecture is designed to be extended to monitor real system events across various operating systems.</p>
+                </div>
+                <div class="overview-image">
+                    <img src="https://via.placeholder.com/400x300?text=Security+Monitoring" alt="Security monitoring illustration">
+                </div>
+            </div>
+        </section>
+
+        <section id="features">
+            <h2>Key Features</h2>
+            <div class="features-grid">
+                <div class="feature-card">
+                    <div class="feature-icon">📊</div>
+                    <h3>Event Logging</h3>
+                    <p>Captures and stores security events in a SQLite database with configurable filtering options for events of interest.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🔍</div>
+                    <h3>Event Analysis</h3>
+                    <p>Automatically detects anomalies, assigns severity scores, and matches events against known attack patterns.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">📈</div>
+                    <h3>Visualization</h3>
+                    <p>Displays real-time logs and visualizes event frequency with interactive charts for easier trend identification.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">💾</div>
+                    <h3>Persistence</h3>
+                    <p>Logs analysis results to JSON files for audit trails and longer-term security trend analysis.</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="architecture">
+            <h2>System Architecture</h2>
+            <div class="architecture-diagram">
+                <img src="https://via.placeholder.com/800x400?text=System+Architecture+Diagram" alt="System architecture diagram">
+            </div>
+            <div class="components">
+                <div class="component">
+                    <h3>Logger Module</h3>
+                    <p>Handles event capturing, database setup, and storage of security events with proper categorization and initial severity assessment.</p>
+                </div>
+                <div class="component">
+                    <h3>Analyzer Module</h3>
+                    <p>Implements security analysis algorithms including anomaly detection through statistical analysis, severity scoring based on event properties, and pattern matching against known attack signatures.</p>
+                </div>
+                <div class="component">
+                    <h3>Interface Module</h3>
+                    <p>Provides a graphical user interface using Tkinter and Matplotlib for visualization, interactive filtering, and real-time monitoring of security events.</p>
+                </div>
+                <div class="component">
+                    <h3>Configuration</h3>
+                    <p>YAML-based configuration system for customizing monitoring parameters, analysis thresholds, and display preferences without code changes.</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="installation">
+            <h2>Installation</h2>
+            <div class="code-block">
+                <pre><code># Clone the repository
+git clone https://github.com/username/security-event-logger.git
+cd security-event-logger
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the application
+python interface.py</code></pre>
+            </div>
+            <div class="requirements">
+                <h3>Requirements</h3>
+                <ul>
+                    <li>Python 3.6 or higher</li>
+                    <li>Matplotlib (for visualization)</li>
+                    <li>PyYAML (for configuration)</li>
+                    <li>SQLite3 (for database storage)</li>
+                </ul>
+            </div>
+        </section>
+
+        <section id="usage">
+            <h2>Usage Guide</h2>
+            <div class="screenshots">
+                <div class="screenshot">
+                    <img src="https://via.placeholder.com/600x400?text=Main+Interface+Screenshot" alt="Main interface screenshot">
+                    <p>The main interface with event logs, analysis results, and visualization charts.</p>
+                </div>
+            </div>
+            <div class="usage-steps">
+                <div class="step">
+                    <h3>1. Configure Monitoring</h3>
+                    <p>Edit <code>config.yaml</code> to specify which event types to monitor and set analysis parameters.</p>
+                </div>
+                <div class="step">
+                    <h3>2. Start the Application</h3>
+                    <p>Launch the interface by running <code>python interface.py</code> from the command line.</p>
+                </div>
+                <div class="step">
+                    <h3>3. Simulate or Monitor Events</h3>
+                    <p>Click "Start Simulation" to generate sample events or extend the logger to capture real system events.</p>
+                </div>
+                <div class="step">
+                    <h3>4. Analyze Security Data</h3>
+                    <p>Use the "Run Analysis" button to process events and detect potential security issues.</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="extending">
+            <h2>Extending the System</h2>
+            <p>The Real-Time OS Security Event Logger is designed to be extended for monitoring real system events. Here are some ways to extend its functionality:</p>
+            
+            <div class="extension-options">
+                <div class="extension">
+                    <h3>Windows Event Integration</h3>
+                    <p>Extend the logger to capture Windows security events using the Windows Event Log API.</p>
+                    <div class="code-snippet">
+                        <pre><code># Example code for capturing Windows events
+import win32evtlog
+def capture_windows_events():
+    # Implementation details
+    pass</code></pre>
+                    </div>
+                </div>
+                
+                <div class="extension">
+                    <h3>Linux Audit Integration</h3>
+                    <p>Implement Linux audit subsystem monitoring for real-time security event capture.</p>
+                    <div class="code-snippet">
+                        <pre><code># Example code for Linux audit integration
+def monitor_audit_log():
+    # Implementation details
+    pass</code></pre>
+                    </div>
+                </div>
+                
+                <div class="extension">
+                    <h3>Custom Pattern Detection</h3>
+                    <p>Add your own attack pattern definitions to enhance security analysis capabilities.</p>
+                    <div class="code-snippet">
+                        <pre><code># Example pattern definition
+new_pattern = {
+    "name": "Data Exfiltration",
+    "pattern": {
+        "event_type": "network_connection",
+        "conditions": {
+            "ports": [8080, 8888],
+            "direction": "outbound",
+            "data_size": ">1MB"
+        }
+    },
+    "severity": 4
+}</code></pre>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2023 Real-Time OS Security Event Logger Project</p>
+            <p>
+                <a href="https://github.com/username/security-event-logger">GitHub</a> |
+                <a href="#overview">Back to Top</a>
+            </p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html> 

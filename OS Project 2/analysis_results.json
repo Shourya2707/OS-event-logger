@@ -1,0 +1,1787 @@
+{
+  "timestamp": "2026-02-24T23:35:42.943498",
+  "count": 119,
+  "results": [
+    {
+      "id": 86,
+      "timestamp": "2026-02-24T23:35:42.915348",
+      "event_id": 9,
+      "analysis_type": "pattern_matching",
+      "severity": 4,
+      "result": {
+        "timestamp": "2026-02-24T23:35:42.915348",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Sensitive File Access",
+        "event_id": 9,
+        "event_timestamp": "2026-02-24T23:30:52.889601",
+        "severity": 4
+      }
+    },
+    {
+      "id": 87,
+      "timestamp": "2026-02-24T23:35:42.915348",
+      "event_id": 17,
+      "analysis_type": "pattern_matching",
+      "severity": 4,
+      "result": {
+        "timestamp": "2026-02-24T23:35:42.915348",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Sensitive File Access",
+        "event_id": 17,
+        "event_timestamp": "2026-02-24T23:31:04.984074",
+        "severity": 4
+      }
+    },
+    {
+      "id": 88,
+      "timestamp": "2026-02-24T23:35:42.915348",
+      "event_id": 32,
+      "analysis_type": "pattern_matching",
+      "severity": 4,
+      "result": {
+        "timestamp": "2026-02-24T23:35:42.915348",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Sensitive File Access",
+        "event_id": 32,
+        "event_timestamp": "2026-02-24T23:31:27.690546",
+        "severity": 4
+      }
+    },
+    {
+      "id": 89,
+      "timestamp": "2026-02-24T23:35:42.915348",
+      "event_id": 34,
+      "analysis_type": "pattern_matching",
+      "severity": 4,
+      "result": {
+        "timestamp": "2026-02-24T23:35:42.915348",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Sensitive File Access",
+        "event_id": 34,
+        "event_timestamp": "2026-02-24T23:31:30.713569",
+        "severity": 4
+      }
+    },
+    {
+      "id": 90,
+      "timestamp": "2026-02-24T23:35:42.915348",
+      "event_id": 38,
+      "analysis_type": "pattern_matching",
+      "severity": 4,
+      "result": {
+        "timestamp": "2026-02-24T23:35:42.915348",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Sensitive File Access",
+        "event_id": 38,
+        "event_timestamp": "2026-02-24T23:31:36.760065",
+        "severity": 4
+      }
+    },
+    {
+      "id": 91,
+      "timestamp": "2026-02-24T23:35:42.915348",
+      "event_id": 40,
+      "analysis_type": "pattern_matching",
+      "severity": 4,
+      "result": {
+        "timestamp": "2026-02-24T23:35:42.915348",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Sensitive File Access",
+        "event_id": 40,
+        "event_timestamp": "2026-02-24T23:31:39.783028",
+        "severity": 4
+      }
+    },
+    {
+      "id": 92,
+      "timestamp": "2026-02-24T23:35:42.915348",
+      "event_id": 44,
+      "analysis_type": "pattern_matching",
+      "severity": 4,
+      "result": {
+        "timestamp": "2026-02-24T23:35:42.915348",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Sensitive File Access",
+        "event_id": 44,
+        "event_timestamp": "2026-02-24T23:31:45.833034",
+        "severity": 4
+      }
+    },
+    {
+      "id": 93,
+      "timestamp": "2026-02-24T23:35:42.915348",
+      "event_id": 64,
+      "analysis_type": "pattern_matching",
+      "severity": 4,
+      "result": {
+        "timestamp": "2026-02-24T23:35:42.915348",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Sensitive File Access",
+        "event_id": 64,
+        "event_timestamp": "2026-02-24T23:32:16.138031",
+        "severity": 4
+      }
+    },
+    {
+      "id": 94,
+      "timestamp": "2026-02-24T23:35:42.915348",
+      "event_id": 96,
+      "analysis_type": "pattern_matching",
+      "severity": 4,
+      "result": {
+        "timestamp": "2026-02-24T23:35:42.915348",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Sensitive File Access",
+        "event_id": 96,
+        "event_timestamp": "2026-02-24T23:33:04.676108",
+        "severity": 4
+      }
+    },
+    {
+      "id": 95,
+      "timestamp": "2026-02-24T23:35:42.915348",
+      "event_id": 97,
+      "analysis_type": "pattern_matching",
+      "severity": 4,
+      "result": {
+        "timestamp": "2026-02-24T23:35:42.915348",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Sensitive File Access",
+        "event_id": 97,
+        "event_timestamp": "2026-02-24T23:33:06.186575",
+        "severity": 4
+      }
+    },
+    {
+      "id": 96,
+      "timestamp": "2026-02-24T23:35:42.915348",
+      "event_id": 134,
+      "analysis_type": "pattern_matching",
+      "severity": 4,
+      "result": {
+        "timestamp": "2026-02-24T23:35:42.915348",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Sensitive File Access",
+        "event_id": 134,
+        "event_timestamp": "2026-02-24T23:34:02.175143",
+        "severity": 4
+      }
+    },
+    {
+      "id": 97,
+      "timestamp": "2026-02-24T23:35:42.915348",
+      "event_id": 176,
+      "analysis_type": "pattern_matching",
+      "severity": 4,
+      "result": {
+        "timestamp": "2026-02-24T23:35:42.915348",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Sensitive File Access",
+        "event_id": 176,
+        "event_timestamp": "2026-02-24T23:35:05.774431",
+        "severity": 4
+      }
+    },
+    {
+      "id": 98,
+      "timestamp": "2026-02-24T23:35:42.915348",
+      "event_id": 177,
+      "analysis_type": "pattern_matching",
+      "severity": 4,
+      "result": {
+        "timestamp": "2026-02-24T23:35:42.915348",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Sensitive File Access",
+        "event_id": 177,
+        "event_timestamp": "2026-02-24T23:35:07.302182",
+        "severity": 4
+      }
+    },
+    {
+      "id": 99,
+      "timestamp": "2026-02-24T23:35:42.915348",
+      "event_id": 12,
+      "analysis_type": "pattern_matching",
+      "severity": 3,
+      "result": {
+        "timestamp": "2026-02-24T23:35:42.915348",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Suspicious Network Connection",
+        "event_id": 12,
+        "event_timestamp": "2026-02-24T23:30:57.424942",
+        "severity": 3
+      }
+    },
+    {
+      "id": 100,
+      "timestamp": "2026-02-24T23:35:42.915348",
+      "event_id": 14,
+      "analysis_type": "pattern_matching",
+      "severity": 3,
+      "result": {
+        "timestamp": "2026-02-24T23:35:42.915348",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Suspicious Network Connection",
+        "event_id": 14,
+        "event_timestamp": "2026-02-24T23:31:00.449129",
+        "severity": 3
+      }
+    },
+    {
+      "id": 101,
+      "timestamp": "2026-02-24T23:35:42.915348",
+      "event_id": 48,
+      "analysis_type": "pattern_matching",
+      "severity": 3,
+      "result": {
+        "timestamp": "2026-02-24T23:35:42.915348",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Suspicious Network Connection",
+        "event_id": 48,
+        "event_timestamp": "2026-02-24T23:31:51.917393",
+        "severity": 3
+      }
+    },
+    {
+      "id": 102,
+      "timestamp": "2026-02-24T23:35:42.915348",
+      "event_id": 59,
+      "analysis_type": "pattern_matching",
+      "severity": 3,
+      "result": {
+        "timestamp": "2026-02-24T23:35:42.915348",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Suspicious Network Connection",
+        "event_id": 59,
+        "event_timestamp": "2026-02-24T23:32:08.583182",
+        "severity": 3
+      }
+    },
+    {
+      "id": 103,
+      "timestamp": "2026-02-24T23:35:42.915348",
+      "event_id": 114,
+      "analysis_type": "pattern_matching",
+      "severity": 3,
+      "result": {
+        "timestamp": "2026-02-24T23:35:42.915348",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Suspicious Network Connection",
+        "event_id": 114,
+        "event_timestamp": "2026-02-24T23:33:31.874376",
+        "severity": 3
+      }
+    },
+    {
+      "id": 104,
+      "timestamp": "2026-02-24T23:35:42.915348",
+      "event_id": 125,
+      "analysis_type": "pattern_matching",
+      "severity": 3,
+      "result": {
+        "timestamp": "2026-02-24T23:35:42.915348",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Suspicious Network Connection",
+        "event_id": 125,
+        "event_timestamp": "2026-02-24T23:33:48.513421",
+        "severity": 3
+      }
+    },
+    {
+      "id": 105,
+      "timestamp": "2026-02-24T23:35:42.915348",
+      "event_id": 171,
+      "analysis_type": "pattern_matching",
+      "severity": 3,
+      "result": {
+        "timestamp": "2026-02-24T23:35:42.915348",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Suspicious Network Connection",
+        "event_id": 171,
+        "event_timestamp": "2026-02-24T23:34:58.200119",
+        "severity": 3
+      }
+    },
+    {
+      "id": 106,
+      "timestamp": "2026-02-24T23:35:42.915348",
+      "event_id": 173,
+      "analysis_type": "pattern_matching",
+      "severity": 3,
+      "result": {
+        "timestamp": "2026-02-24T23:35:42.915348",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Suspicious Network Connection",
+        "event_id": 173,
+        "event_timestamp": "2026-02-24T23:35:01.229826",
+        "severity": 3
+      }
+    },
+    {
+      "id": 107,
+      "timestamp": "2026-02-24T23:35:42.915348",
+      "event_id": 4,
+      "analysis_type": "pattern_matching",
+      "severity": 5,
+      "result": {
+        "timestamp": "2026-02-24T23:35:42.915348",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Privilege Escalation",
+        "event_id": 4,
+        "event_timestamp": "2026-02-24T23:30:45.306618",
+        "severity": 5
+      }
+    },
+    {
+      "id": 108,
+      "timestamp": "2026-02-24T23:35:42.915348",
+      "event_id": 6,
+      "analysis_type": "pattern_matching",
+      "severity": 5,
+      "result": {
+        "timestamp": "2026-02-24T23:35:42.915348",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Privilege Escalation",
+        "event_id": 6,
+        "event_timestamp": "2026-02-24T23:30:48.331601",
+        "severity": 5
+      }
+    },
+    {
+      "id": 109,
+      "timestamp": "2026-02-24T23:35:42.915348",
+      "event_id": 67,
+      "analysis_type": "pattern_matching",
+      "severity": 5,
+      "result": {
+        "timestamp": "2026-02-24T23:35:42.915348",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Privilege Escalation",
+        "event_id": 67,
+        "event_timestamp": "2026-02-24T23:32:20.673208",
+        "severity": 5
+      }
+    },
+    {
+      "id": 110,
+      "timestamp": "2026-02-24T23:35:42.915348",
+      "event_id": 68,
+      "analysis_type": "pattern_matching",
+      "severity": 5,
+      "result": {
+        "timestamp": "2026-02-24T23:35:42.915348",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Privilege Escalation",
+        "event_id": 68,
+        "event_timestamp": "2026-02-24T23:32:22.182465",
+        "severity": 5
+      }
+    },
+    {
+      "id": 111,
+      "timestamp": "2026-02-24T23:35:42.915348",
+      "event_id": 104,
+      "analysis_type": "pattern_matching",
+      "severity": 5,
+      "result": {
+        "timestamp": "2026-02-24T23:35:42.915348",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Privilege Escalation",
+        "event_id": 104,
+        "event_timestamp": "2026-02-24T23:33:16.768912",
+        "severity": 5
+      }
+    },
+    {
+      "id": 112,
+      "timestamp": "2026-02-24T23:35:42.915348",
+      "event_id": 118,
+      "analysis_type": "pattern_matching",
+      "severity": 5,
+      "result": {
+        "timestamp": "2026-02-24T23:35:42.915348",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Privilege Escalation",
+        "event_id": 118,
+        "event_timestamp": "2026-02-24T23:33:37.923780",
+        "severity": 5
+      }
+    },
+    {
+      "id": 113,
+      "timestamp": "2026-02-24T23:35:42.915348",
+      "event_id": 144,
+      "analysis_type": "pattern_matching",
+      "severity": 5,
+      "result": {
+        "timestamp": "2026-02-24T23:35:42.915348",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Privilege Escalation",
+        "event_id": 144,
+        "event_timestamp": "2026-02-24T23:34:17.323297",
+        "severity": 5
+      }
+    },
+    {
+      "id": 114,
+      "timestamp": "2026-02-24T23:35:42.915348",
+      "event_id": 163,
+      "analysis_type": "pattern_matching",
+      "severity": 5,
+      "result": {
+        "timestamp": "2026-02-24T23:35:42.915348",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Privilege Escalation",
+        "event_id": 163,
+        "event_timestamp": "2026-02-24T23:34:46.105106",
+        "severity": 5
+      }
+    },
+    {
+      "id": 115,
+      "timestamp": "2026-02-24T23:35:42.915348",
+      "event_id": 165,
+      "analysis_type": "pattern_matching",
+      "severity": 5,
+      "result": {
+        "timestamp": "2026-02-24T23:35:42.915348",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Privilege Escalation",
+        "event_id": 165,
+        "event_timestamp": "2026-02-24T23:34:49.128241",
+        "severity": 5
+      }
+    },
+    {
+      "id": 116,
+      "timestamp": "2026-02-24T23:35:42.915348",
+      "event_id": 169,
+      "analysis_type": "pattern_matching",
+      "severity": 5,
+      "result": {
+        "timestamp": "2026-02-24T23:35:42.915348",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Privilege Escalation",
+        "event_id": 169,
+        "event_timestamp": "2026-02-24T23:34:55.178534",
+        "severity": 5
+      }
+    },
+    {
+      "id": 117,
+      "timestamp": "2026-02-24T23:35:42.915348",
+      "event_id": 174,
+      "analysis_type": "pattern_matching",
+      "severity": 5,
+      "result": {
+        "timestamp": "2026-02-24T23:35:42.915348",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Privilege Escalation",
+        "event_id": 174,
+        "event_timestamp": "2026-02-24T23:35:02.746775",
+        "severity": 5
+      }
+    },
+    {
+      "id": 118,
+      "timestamp": "2026-02-24T23:35:42.915348",
+      "event_id": 175,
+      "analysis_type": "pattern_matching",
+      "severity": 5,
+      "result": {
+        "timestamp": "2026-02-24T23:35:42.915348",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Privilege Escalation",
+        "event_id": 175,
+        "event_timestamp": "2026-02-24T23:35:04.259864",
+        "severity": 5
+      }
+    },
+    {
+      "id": 119,
+      "timestamp": "2026-02-24T23:35:42.915348",
+      "event_id": 179,
+      "analysis_type": "pattern_matching",
+      "severity": 5,
+      "result": {
+        "timestamp": "2026-02-24T23:35:42.915348",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Privilege Escalation",
+        "event_id": 179,
+        "event_timestamp": "2026-02-24T23:35:10.331120",
+        "severity": 5
+      }
+    },
+    {
+      "id": 85,
+      "timestamp": "2026-02-24T23:35:42.911578",
+      "event_id": null,
+      "analysis_type": "pattern_matching",
+      "severity": 3,
+      "result": {
+        "timestamp": "2026-02-24T23:35:42.911578",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Brute Force Login",
+        "event_count": 19,
+        "severity": 3
+      }
+    },
+    {
+      "id": 76,
+      "timestamp": "2026-02-24T23:33:32.900098",
+      "event_id": 14,
+      "analysis_type": "pattern_matching",
+      "severity": 3,
+      "result": {
+        "timestamp": "2026-02-24T23:33:32.900098",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Suspicious Network Connection",
+        "event_id": 14,
+        "event_timestamp": "2026-02-24T23:31:00.449129",
+        "severity": 3
+      }
+    },
+    {
+      "id": 77,
+      "timestamp": "2026-02-24T23:33:32.900098",
+      "event_id": 48,
+      "analysis_type": "pattern_matching",
+      "severity": 3,
+      "result": {
+        "timestamp": "2026-02-24T23:33:32.900098",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Suspicious Network Connection",
+        "event_id": 48,
+        "event_timestamp": "2026-02-24T23:31:51.917393",
+        "severity": 3
+      }
+    },
+    {
+      "id": 78,
+      "timestamp": "2026-02-24T23:33:32.900098",
+      "event_id": 59,
+      "analysis_type": "pattern_matching",
+      "severity": 3,
+      "result": {
+        "timestamp": "2026-02-24T23:33:32.900098",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Suspicious Network Connection",
+        "event_id": 59,
+        "event_timestamp": "2026-02-24T23:32:08.583182",
+        "severity": 3
+      }
+    },
+    {
+      "id": 79,
+      "timestamp": "2026-02-24T23:33:32.900098",
+      "event_id": 114,
+      "analysis_type": "pattern_matching",
+      "severity": 3,
+      "result": {
+        "timestamp": "2026-02-24T23:33:32.900098",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Suspicious Network Connection",
+        "event_id": 114,
+        "event_timestamp": "2026-02-24T23:33:31.874376",
+        "severity": 3
+      }
+    },
+    {
+      "id": 80,
+      "timestamp": "2026-02-24T23:33:32.900098",
+      "event_id": 4,
+      "analysis_type": "pattern_matching",
+      "severity": 5,
+      "result": {
+        "timestamp": "2026-02-24T23:33:32.900098",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Privilege Escalation",
+        "event_id": 4,
+        "event_timestamp": "2026-02-24T23:30:45.306618",
+        "severity": 5
+      }
+    },
+    {
+      "id": 81,
+      "timestamp": "2026-02-24T23:33:32.900098",
+      "event_id": 6,
+      "analysis_type": "pattern_matching",
+      "severity": 5,
+      "result": {
+        "timestamp": "2026-02-24T23:33:32.900098",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Privilege Escalation",
+        "event_id": 6,
+        "event_timestamp": "2026-02-24T23:30:48.331601",
+        "severity": 5
+      }
+    },
+    {
+      "id": 82,
+      "timestamp": "2026-02-24T23:33:32.900098",
+      "event_id": 67,
+      "analysis_type": "pattern_matching",
+      "severity": 5,
+      "result": {
+        "timestamp": "2026-02-24T23:33:32.900098",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Privilege Escalation",
+        "event_id": 67,
+        "event_timestamp": "2026-02-24T23:32:20.673208",
+        "severity": 5
+      }
+    },
+    {
+      "id": 83,
+      "timestamp": "2026-02-24T23:33:32.900098",
+      "event_id": 68,
+      "analysis_type": "pattern_matching",
+      "severity": 5,
+      "result": {
+        "timestamp": "2026-02-24T23:33:32.900098",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Privilege Escalation",
+        "event_id": 68,
+        "event_timestamp": "2026-02-24T23:32:22.182465",
+        "severity": 5
+      }
+    },
+    {
+      "id": 84,
+      "timestamp": "2026-02-24T23:33:32.900098",
+      "event_id": 104,
+      "analysis_type": "pattern_matching",
+      "severity": 5,
+      "result": {
+        "timestamp": "2026-02-24T23:33:32.900098",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Privilege Escalation",
+        "event_id": 104,
+        "event_timestamp": "2026-02-24T23:33:16.768912",
+        "severity": 5
+      }
+    },
+    {
+      "id": 65,
+      "timestamp": "2026-02-24T23:33:32.899516",
+      "event_id": 9,
+      "analysis_type": "pattern_matching",
+      "severity": 4,
+      "result": {
+        "timestamp": "2026-02-24T23:33:32.899516",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Sensitive File Access",
+        "event_id": 9,
+        "event_timestamp": "2026-02-24T23:30:52.889601",
+        "severity": 4
+      }
+    },
+    {
+      "id": 66,
+      "timestamp": "2026-02-24T23:33:32.899516",
+      "event_id": 17,
+      "analysis_type": "pattern_matching",
+      "severity": 4,
+      "result": {
+        "timestamp": "2026-02-24T23:33:32.899516",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Sensitive File Access",
+        "event_id": 17,
+        "event_timestamp": "2026-02-24T23:31:04.984074",
+        "severity": 4
+      }
+    },
+    {
+      "id": 67,
+      "timestamp": "2026-02-24T23:33:32.899516",
+      "event_id": 32,
+      "analysis_type": "pattern_matching",
+      "severity": 4,
+      "result": {
+        "timestamp": "2026-02-24T23:33:32.899516",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Sensitive File Access",
+        "event_id": 32,
+        "event_timestamp": "2026-02-24T23:31:27.690546",
+        "severity": 4
+      }
+    },
+    {
+      "id": 68,
+      "timestamp": "2026-02-24T23:33:32.899516",
+      "event_id": 34,
+      "analysis_type": "pattern_matching",
+      "severity": 4,
+      "result": {
+        "timestamp": "2026-02-24T23:33:32.899516",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Sensitive File Access",
+        "event_id": 34,
+        "event_timestamp": "2026-02-24T23:31:30.713569",
+        "severity": 4
+      }
+    },
+    {
+      "id": 69,
+      "timestamp": "2026-02-24T23:33:32.899516",
+      "event_id": 38,
+      "analysis_type": "pattern_matching",
+      "severity": 4,
+      "result": {
+        "timestamp": "2026-02-24T23:33:32.899516",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Sensitive File Access",
+        "event_id": 38,
+        "event_timestamp": "2026-02-24T23:31:36.760065",
+        "severity": 4
+      }
+    },
+    {
+      "id": 70,
+      "timestamp": "2026-02-24T23:33:32.899516",
+      "event_id": 40,
+      "analysis_type": "pattern_matching",
+      "severity": 4,
+      "result": {
+        "timestamp": "2026-02-24T23:33:32.899516",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Sensitive File Access",
+        "event_id": 40,
+        "event_timestamp": "2026-02-24T23:31:39.783028",
+        "severity": 4
+      }
+    },
+    {
+      "id": 71,
+      "timestamp": "2026-02-24T23:33:32.899516",
+      "event_id": 44,
+      "analysis_type": "pattern_matching",
+      "severity": 4,
+      "result": {
+        "timestamp": "2026-02-24T23:33:32.899516",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Sensitive File Access",
+        "event_id": 44,
+        "event_timestamp": "2026-02-24T23:31:45.833034",
+        "severity": 4
+      }
+    },
+    {
+      "id": 72,
+      "timestamp": "2026-02-24T23:33:32.899516",
+      "event_id": 64,
+      "analysis_type": "pattern_matching",
+      "severity": 4,
+      "result": {
+        "timestamp": "2026-02-24T23:33:32.899516",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Sensitive File Access",
+        "event_id": 64,
+        "event_timestamp": "2026-02-24T23:32:16.138031",
+        "severity": 4
+      }
+    },
+    {
+      "id": 73,
+      "timestamp": "2026-02-24T23:33:32.899516",
+      "event_id": 96,
+      "analysis_type": "pattern_matching",
+      "severity": 4,
+      "result": {
+        "timestamp": "2026-02-24T23:33:32.899516",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Sensitive File Access",
+        "event_id": 96,
+        "event_timestamp": "2026-02-24T23:33:04.676108",
+        "severity": 4
+      }
+    },
+    {
+      "id": 74,
+      "timestamp": "2026-02-24T23:33:32.899516",
+      "event_id": 97,
+      "analysis_type": "pattern_matching",
+      "severity": 4,
+      "result": {
+        "timestamp": "2026-02-24T23:33:32.899516",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Sensitive File Access",
+        "event_id": 97,
+        "event_timestamp": "2026-02-24T23:33:06.186575",
+        "severity": 4
+      }
+    },
+    {
+      "id": 75,
+      "timestamp": "2026-02-24T23:33:32.899516",
+      "event_id": 12,
+      "analysis_type": "pattern_matching",
+      "severity": 3,
+      "result": {
+        "timestamp": "2026-02-24T23:33:32.899516",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Suspicious Network Connection",
+        "event_id": 12,
+        "event_timestamp": "2026-02-24T23:30:57.424942",
+        "severity": 3
+      }
+    },
+    {
+      "id": 64,
+      "timestamp": "2026-02-24T23:33:32.898938",
+      "event_id": null,
+      "analysis_type": "pattern_matching",
+      "severity": 3,
+      "result": {
+        "timestamp": "2026-02-24T23:33:32.898938",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Brute Force Login",
+        "event_count": 13,
+        "severity": 3
+      }
+    },
+    {
+      "id": 48,
+      "timestamp": "2026-02-24T23:33:10.469808",
+      "event_id": 32,
+      "analysis_type": "pattern_matching",
+      "severity": 4,
+      "result": {
+        "timestamp": "2026-02-24T23:33:10.469808",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Sensitive File Access",
+        "event_id": 32,
+        "event_timestamp": "2026-02-24T23:31:27.690546",
+        "severity": 4
+      }
+    },
+    {
+      "id": 49,
+      "timestamp": "2026-02-24T23:33:10.469808",
+      "event_id": 34,
+      "analysis_type": "pattern_matching",
+      "severity": 4,
+      "result": {
+        "timestamp": "2026-02-24T23:33:10.469808",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Sensitive File Access",
+        "event_id": 34,
+        "event_timestamp": "2026-02-24T23:31:30.713569",
+        "severity": 4
+      }
+    },
+    {
+      "id": 50,
+      "timestamp": "2026-02-24T23:33:10.469808",
+      "event_id": 38,
+      "analysis_type": "pattern_matching",
+      "severity": 4,
+      "result": {
+        "timestamp": "2026-02-24T23:33:10.469808",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Sensitive File Access",
+        "event_id": 38,
+        "event_timestamp": "2026-02-24T23:31:36.760065",
+        "severity": 4
+      }
+    },
+    {
+      "id": 51,
+      "timestamp": "2026-02-24T23:33:10.469808",
+      "event_id": 40,
+      "analysis_type": "pattern_matching",
+      "severity": 4,
+      "result": {
+        "timestamp": "2026-02-24T23:33:10.469808",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Sensitive File Access",
+        "event_id": 40,
+        "event_timestamp": "2026-02-24T23:31:39.783028",
+        "severity": 4
+      }
+    },
+    {
+      "id": 52,
+      "timestamp": "2026-02-24T23:33:10.469808",
+      "event_id": 44,
+      "analysis_type": "pattern_matching",
+      "severity": 4,
+      "result": {
+        "timestamp": "2026-02-24T23:33:10.469808",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Sensitive File Access",
+        "event_id": 44,
+        "event_timestamp": "2026-02-24T23:31:45.833034",
+        "severity": 4
+      }
+    },
+    {
+      "id": 53,
+      "timestamp": "2026-02-24T23:33:10.469808",
+      "event_id": 64,
+      "analysis_type": "pattern_matching",
+      "severity": 4,
+      "result": {
+        "timestamp": "2026-02-24T23:33:10.469808",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Sensitive File Access",
+        "event_id": 64,
+        "event_timestamp": "2026-02-24T23:32:16.138031",
+        "severity": 4
+      }
+    },
+    {
+      "id": 54,
+      "timestamp": "2026-02-24T23:33:10.469808",
+      "event_id": 96,
+      "analysis_type": "pattern_matching",
+      "severity": 4,
+      "result": {
+        "timestamp": "2026-02-24T23:33:10.469808",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Sensitive File Access",
+        "event_id": 96,
+        "event_timestamp": "2026-02-24T23:33:04.676108",
+        "severity": 4
+      }
+    },
+    {
+      "id": 55,
+      "timestamp": "2026-02-24T23:33:10.469808",
+      "event_id": 97,
+      "analysis_type": "pattern_matching",
+      "severity": 4,
+      "result": {
+        "timestamp": "2026-02-24T23:33:10.469808",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Sensitive File Access",
+        "event_id": 97,
+        "event_timestamp": "2026-02-24T23:33:06.186575",
+        "severity": 4
+      }
+    },
+    {
+      "id": 56,
+      "timestamp": "2026-02-24T23:33:10.469808",
+      "event_id": 12,
+      "analysis_type": "pattern_matching",
+      "severity": 3,
+      "result": {
+        "timestamp": "2026-02-24T23:33:10.469808",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Suspicious Network Connection",
+        "event_id": 12,
+        "event_timestamp": "2026-02-24T23:30:57.424942",
+        "severity": 3
+      }
+    },
+    {
+      "id": 57,
+      "timestamp": "2026-02-24T23:33:10.469808",
+      "event_id": 14,
+      "analysis_type": "pattern_matching",
+      "severity": 3,
+      "result": {
+        "timestamp": "2026-02-24T23:33:10.469808",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Suspicious Network Connection",
+        "event_id": 14,
+        "event_timestamp": "2026-02-24T23:31:00.449129",
+        "severity": 3
+      }
+    },
+    {
+      "id": 58,
+      "timestamp": "2026-02-24T23:33:10.469808",
+      "event_id": 48,
+      "analysis_type": "pattern_matching",
+      "severity": 3,
+      "result": {
+        "timestamp": "2026-02-24T23:33:10.469808",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Suspicious Network Connection",
+        "event_id": 48,
+        "event_timestamp": "2026-02-24T23:31:51.917393",
+        "severity": 3
+      }
+    },
+    {
+      "id": 59,
+      "timestamp": "2026-02-24T23:33:10.469808",
+      "event_id": 59,
+      "analysis_type": "pattern_matching",
+      "severity": 3,
+      "result": {
+        "timestamp": "2026-02-24T23:33:10.469808",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Suspicious Network Connection",
+        "event_id": 59,
+        "event_timestamp": "2026-02-24T23:32:08.583182",
+        "severity": 3
+      }
+    },
+    {
+      "id": 60,
+      "timestamp": "2026-02-24T23:33:10.469808",
+      "event_id": 4,
+      "analysis_type": "pattern_matching",
+      "severity": 5,
+      "result": {
+        "timestamp": "2026-02-24T23:33:10.469808",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Privilege Escalation",
+        "event_id": 4,
+        "event_timestamp": "2026-02-24T23:30:45.306618",
+        "severity": 5
+      }
+    },
+    {
+      "id": 61,
+      "timestamp": "2026-02-24T23:33:10.469808",
+      "event_id": 6,
+      "analysis_type": "pattern_matching",
+      "severity": 5,
+      "result": {
+        "timestamp": "2026-02-24T23:33:10.469808",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Privilege Escalation",
+        "event_id": 6,
+        "event_timestamp": "2026-02-24T23:30:48.331601",
+        "severity": 5
+      }
+    },
+    {
+      "id": 62,
+      "timestamp": "2026-02-24T23:33:10.469808",
+      "event_id": 67,
+      "analysis_type": "pattern_matching",
+      "severity": 5,
+      "result": {
+        "timestamp": "2026-02-24T23:33:10.469808",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Privilege Escalation",
+        "event_id": 67,
+        "event_timestamp": "2026-02-24T23:32:20.673208",
+        "severity": 5
+      }
+    },
+    {
+      "id": 63,
+      "timestamp": "2026-02-24T23:33:10.469808",
+      "event_id": 68,
+      "analysis_type": "pattern_matching",
+      "severity": 5,
+      "result": {
+        "timestamp": "2026-02-24T23:33:10.469808",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Privilege Escalation",
+        "event_id": 68,
+        "event_timestamp": "2026-02-24T23:32:22.182465",
+        "severity": 5
+      }
+    },
+    {
+      "id": 46,
+      "timestamp": "2026-02-24T23:33:10.468682",
+      "event_id": 9,
+      "analysis_type": "pattern_matching",
+      "severity": 4,
+      "result": {
+        "timestamp": "2026-02-24T23:33:10.468682",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Sensitive File Access",
+        "event_id": 9,
+        "event_timestamp": "2026-02-24T23:30:52.889601",
+        "severity": 4
+      }
+    },
+    {
+      "id": 47,
+      "timestamp": "2026-02-24T23:33:10.468682",
+      "event_id": 17,
+      "analysis_type": "pattern_matching",
+      "severity": 4,
+      "result": {
+        "timestamp": "2026-02-24T23:33:10.468682",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Sensitive File Access",
+        "event_id": 17,
+        "event_timestamp": "2026-02-24T23:31:04.984074",
+        "severity": 4
+      }
+    },
+    {
+      "id": 45,
+      "timestamp": "2026-02-24T23:33:10.463735",
+      "event_id": null,
+      "analysis_type": "pattern_matching",
+      "severity": 3,
+      "result": {
+        "timestamp": "2026-02-24T23:33:10.463735",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Brute Force Login",
+        "event_count": 11,
+        "severity": 3
+      }
+    },
+    {
+      "id": 29,
+      "timestamp": "2026-02-24T23:33:00.097534",
+      "event_id": 9,
+      "analysis_type": "pattern_matching",
+      "severity": 4,
+      "result": {
+        "timestamp": "2026-02-24T23:33:00.097534",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Sensitive File Access",
+        "event_id": 9,
+        "event_timestamp": "2026-02-24T23:30:52.889601",
+        "severity": 4
+      }
+    },
+    {
+      "id": 30,
+      "timestamp": "2026-02-24T23:33:00.097534",
+      "event_id": 17,
+      "analysis_type": "pattern_matching",
+      "severity": 4,
+      "result": {
+        "timestamp": "2026-02-24T23:33:00.097534",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Sensitive File Access",
+        "event_id": 17,
+        "event_timestamp": "2026-02-24T23:31:04.984074",
+        "severity": 4
+      }
+    },
+    {
+      "id": 31,
+      "timestamp": "2026-02-24T23:33:00.097534",
+      "event_id": 32,
+      "analysis_type": "pattern_matching",
+      "severity": 4,
+      "result": {
+        "timestamp": "2026-02-24T23:33:00.097534",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Sensitive File Access",
+        "event_id": 32,
+        "event_timestamp": "2026-02-24T23:31:27.690546",
+        "severity": 4
+      }
+    },
+    {
+      "id": 32,
+      "timestamp": "2026-02-24T23:33:00.097534",
+      "event_id": 34,
+      "analysis_type": "pattern_matching",
+      "severity": 4,
+      "result": {
+        "timestamp": "2026-02-24T23:33:00.097534",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Sensitive File Access",
+        "event_id": 34,
+        "event_timestamp": "2026-02-24T23:31:30.713569",
+        "severity": 4
+      }
+    },
+    {
+      "id": 33,
+      "timestamp": "2026-02-24T23:33:00.097534",
+      "event_id": 38,
+      "analysis_type": "pattern_matching",
+      "severity": 4,
+      "result": {
+        "timestamp": "2026-02-24T23:33:00.097534",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Sensitive File Access",
+        "event_id": 38,
+        "event_timestamp": "2026-02-24T23:31:36.760065",
+        "severity": 4
+      }
+    },
+    {
+      "id": 34,
+      "timestamp": "2026-02-24T23:33:00.097534",
+      "event_id": 40,
+      "analysis_type": "pattern_matching",
+      "severity": 4,
+      "result": {
+        "timestamp": "2026-02-24T23:33:00.097534",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Sensitive File Access",
+        "event_id": 40,
+        "event_timestamp": "2026-02-24T23:31:39.783028",
+        "severity": 4
+      }
+    },
+    {
+      "id": 35,
+      "timestamp": "2026-02-24T23:33:00.097534",
+      "event_id": 44,
+      "analysis_type": "pattern_matching",
+      "severity": 4,
+      "result": {
+        "timestamp": "2026-02-24T23:33:00.097534",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Sensitive File Access",
+        "event_id": 44,
+        "event_timestamp": "2026-02-24T23:31:45.833034",
+        "severity": 4
+      }
+    },
+    {
+      "id": 36,
+      "timestamp": "2026-02-24T23:33:00.097534",
+      "event_id": 64,
+      "analysis_type": "pattern_matching",
+      "severity": 4,
+      "result": {
+        "timestamp": "2026-02-24T23:33:00.097534",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Sensitive File Access",
+        "event_id": 64,
+        "event_timestamp": "2026-02-24T23:32:16.138031",
+        "severity": 4
+      }
+    },
+    {
+      "id": 37,
+      "timestamp": "2026-02-24T23:33:00.097534",
+      "event_id": 12,
+      "analysis_type": "pattern_matching",
+      "severity": 3,
+      "result": {
+        "timestamp": "2026-02-24T23:33:00.097534",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Suspicious Network Connection",
+        "event_id": 12,
+        "event_timestamp": "2026-02-24T23:30:57.424942",
+        "severity": 3
+      }
+    },
+    {
+      "id": 38,
+      "timestamp": "2026-02-24T23:33:00.097534",
+      "event_id": 14,
+      "analysis_type": "pattern_matching",
+      "severity": 3,
+      "result": {
+        "timestamp": "2026-02-24T23:33:00.097534",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Suspicious Network Connection",
+        "event_id": 14,
+        "event_timestamp": "2026-02-24T23:31:00.449129",
+        "severity": 3
+      }
+    },
+    {
+      "id": 39,
+      "timestamp": "2026-02-24T23:33:00.097534",
+      "event_id": 48,
+      "analysis_type": "pattern_matching",
+      "severity": 3,
+      "result": {
+        "timestamp": "2026-02-24T23:33:00.097534",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Suspicious Network Connection",
+        "event_id": 48,
+        "event_timestamp": "2026-02-24T23:31:51.917393",
+        "severity": 3
+      }
+    },
+    {
+      "id": 40,
+      "timestamp": "2026-02-24T23:33:00.097534",
+      "event_id": 59,
+      "analysis_type": "pattern_matching",
+      "severity": 3,
+      "result": {
+        "timestamp": "2026-02-24T23:33:00.097534",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Suspicious Network Connection",
+        "event_id": 59,
+        "event_timestamp": "2026-02-24T23:32:08.583182",
+        "severity": 3
+      }
+    },
+    {
+      "id": 41,
+      "timestamp": "2026-02-24T23:33:00.097534",
+      "event_id": 4,
+      "analysis_type": "pattern_matching",
+      "severity": 5,
+      "result": {
+        "timestamp": "2026-02-24T23:33:00.097534",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Privilege Escalation",
+        "event_id": 4,
+        "event_timestamp": "2026-02-24T23:30:45.306618",
+        "severity": 5
+      }
+    },
+    {
+      "id": 42,
+      "timestamp": "2026-02-24T23:33:00.097534",
+      "event_id": 6,
+      "analysis_type": "pattern_matching",
+      "severity": 5,
+      "result": {
+        "timestamp": "2026-02-24T23:33:00.097534",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Privilege Escalation",
+        "event_id": 6,
+        "event_timestamp": "2026-02-24T23:30:48.331601",
+        "severity": 5
+      }
+    },
+    {
+      "id": 43,
+      "timestamp": "2026-02-24T23:33:00.097534",
+      "event_id": 67,
+      "analysis_type": "pattern_matching",
+      "severity": 5,
+      "result": {
+        "timestamp": "2026-02-24T23:33:00.097534",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Privilege Escalation",
+        "event_id": 67,
+        "event_timestamp": "2026-02-24T23:32:20.673208",
+        "severity": 5
+      }
+    },
+    {
+      "id": 44,
+      "timestamp": "2026-02-24T23:33:00.097534",
+      "event_id": 68,
+      "analysis_type": "pattern_matching",
+      "severity": 5,
+      "result": {
+        "timestamp": "2026-02-24T23:33:00.097534",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Privilege Escalation",
+        "event_id": 68,
+        "event_timestamp": "2026-02-24T23:32:22.182465",
+        "severity": 5
+      }
+    },
+    {
+      "id": 28,
+      "timestamp": "2026-02-24T23:33:00.093500",
+      "event_id": null,
+      "analysis_type": "pattern_matching",
+      "severity": 3,
+      "result": {
+        "timestamp": "2026-02-24T23:33:00.093500",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Brute Force Login",
+        "event_count": 10,
+        "severity": 3
+      }
+    },
+    {
+      "id": 16,
+      "timestamp": "2026-02-24T23:32:02.555565",
+      "event_id": 9,
+      "analysis_type": "pattern_matching",
+      "severity": 4,
+      "result": {
+        "timestamp": "2026-02-24T23:32:02.555565",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Sensitive File Access",
+        "event_id": 9,
+        "event_timestamp": "2026-02-24T23:30:52.889601",
+        "severity": 4
+      }
+    },
+    {
+      "id": 17,
+      "timestamp": "2026-02-24T23:32:02.555565",
+      "event_id": 17,
+      "analysis_type": "pattern_matching",
+      "severity": 4,
+      "result": {
+        "timestamp": "2026-02-24T23:32:02.555565",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Sensitive File Access",
+        "event_id": 17,
+        "event_timestamp": "2026-02-24T23:31:04.984074",
+        "severity": 4
+      }
+    },
+    {
+      "id": 18,
+      "timestamp": "2026-02-24T23:32:02.555565",
+      "event_id": 32,
+      "analysis_type": "pattern_matching",
+      "severity": 4,
+      "result": {
+        "timestamp": "2026-02-24T23:32:02.555565",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Sensitive File Access",
+        "event_id": 32,
+        "event_timestamp": "2026-02-24T23:31:27.690546",
+        "severity": 4
+      }
+    },
+    {
+      "id": 19,
+      "timestamp": "2026-02-24T23:32:02.555565",
+      "event_id": 34,
+      "analysis_type": "pattern_matching",
+      "severity": 4,
+      "result": {
+        "timestamp": "2026-02-24T23:32:02.555565",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Sensitive File Access",
+        "event_id": 34,
+        "event_timestamp": "2026-02-24T23:31:30.713569",
+        "severity": 4
+      }
+    },
+    {
+      "id": 20,
+      "timestamp": "2026-02-24T23:32:02.555565",
+      "event_id": 38,
+      "analysis_type": "pattern_matching",
+      "severity": 4,
+      "result": {
+        "timestamp": "2026-02-24T23:32:02.555565",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Sensitive File Access",
+        "event_id": 38,
+        "event_timestamp": "2026-02-24T23:31:36.760065",
+        "severity": 4
+      }
+    },
+    {
+      "id": 21,
+      "timestamp": "2026-02-24T23:32:02.555565",
+      "event_id": 40,
+      "analysis_type": "pattern_matching",
+      "severity": 4,
+      "result": {
+        "timestamp": "2026-02-24T23:32:02.555565",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Sensitive File Access",
+        "event_id": 40,
+        "event_timestamp": "2026-02-24T23:31:39.783028",
+        "severity": 4
+      }
+    },
+    {
+      "id": 22,
+      "timestamp": "2026-02-24T23:32:02.555565",
+      "event_id": 44,
+      "analysis_type": "pattern_matching",
+      "severity": 4,
+      "result": {
+        "timestamp": "2026-02-24T23:32:02.555565",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Sensitive File Access",
+        "event_id": 44,
+        "event_timestamp": "2026-02-24T23:31:45.833034",
+        "severity": 4
+      }
+    },
+    {
+      "id": 23,
+      "timestamp": "2026-02-24T23:32:02.555565",
+      "event_id": 12,
+      "analysis_type": "pattern_matching",
+      "severity": 3,
+      "result": {
+        "timestamp": "2026-02-24T23:32:02.555565",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Suspicious Network Connection",
+        "event_id": 12,
+        "event_timestamp": "2026-02-24T23:30:57.424942",
+        "severity": 3
+      }
+    },
+    {
+      "id": 24,
+      "timestamp": "2026-02-24T23:32:02.555565",
+      "event_id": 14,
+      "analysis_type": "pattern_matching",
+      "severity": 3,
+      "result": {
+        "timestamp": "2026-02-24T23:32:02.555565",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Suspicious Network Connection",
+        "event_id": 14,
+        "event_timestamp": "2026-02-24T23:31:00.449129",
+        "severity": 3
+      }
+    },
+    {
+      "id": 25,
+      "timestamp": "2026-02-24T23:32:02.555565",
+      "event_id": 48,
+      "analysis_type": "pattern_matching",
+      "severity": 3,
+      "result": {
+        "timestamp": "2026-02-24T23:32:02.555565",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Suspicious Network Connection",
+        "event_id": 48,
+        "event_timestamp": "2026-02-24T23:31:51.917393",
+        "severity": 3
+      }
+    },
+    {
+      "id": 26,
+      "timestamp": "2026-02-24T23:32:02.555565",
+      "event_id": 4,
+      "analysis_type": "pattern_matching",
+      "severity": 5,
+      "result": {
+        "timestamp": "2026-02-24T23:32:02.555565",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Privilege Escalation",
+        "event_id": 4,
+        "event_timestamp": "2026-02-24T23:30:45.306618",
+        "severity": 5
+      }
+    },
+    {
+      "id": 27,
+      "timestamp": "2026-02-24T23:32:02.555565",
+      "event_id": 6,
+      "analysis_type": "pattern_matching",
+      "severity": 5,
+      "result": {
+        "timestamp": "2026-02-24T23:32:02.555565",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Privilege Escalation",
+        "event_id": 6,
+        "event_timestamp": "2026-02-24T23:30:48.331601",
+        "severity": 5
+      }
+    },
+    {
+      "id": 11,
+      "timestamp": "2026-02-24T23:31:24.311843",
+      "event_id": 17,
+      "analysis_type": "pattern_matching",
+      "severity": 4,
+      "result": {
+        "timestamp": "2026-02-24T23:31:24.311843",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Sensitive File Access",
+        "event_id": 17,
+        "event_timestamp": "2026-02-24T23:31:04.984074",
+        "severity": 4
+      }
+    },
+    {
+      "id": 12,
+      "timestamp": "2026-02-24T23:31:24.311843",
+      "event_id": 12,
+      "analysis_type": "pattern_matching",
+      "severity": 3,
+      "result": {
+        "timestamp": "2026-02-24T23:31:24.311843",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Suspicious Network Connection",
+        "event_id": 12,
+        "event_timestamp": "2026-02-24T23:30:57.424942",
+        "severity": 3
+      }
+    },
+    {
+      "id": 13,
+      "timestamp": "2026-02-24T23:31:24.311843",
+      "event_id": 14,
+      "analysis_type": "pattern_matching",
+      "severity": 3,
+      "result": {
+        "timestamp": "2026-02-24T23:31:24.311843",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Suspicious Network Connection",
+        "event_id": 14,
+        "event_timestamp": "2026-02-24T23:31:00.449129",
+        "severity": 3
+      }
+    },
+    {
+      "id": 14,
+      "timestamp": "2026-02-24T23:31:24.311843",
+      "event_id": 4,
+      "analysis_type": "pattern_matching",
+      "severity": 5,
+      "result": {
+        "timestamp": "2026-02-24T23:31:24.311843",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Privilege Escalation",
+        "event_id": 4,
+        "event_timestamp": "2026-02-24T23:30:45.306618",
+        "severity": 5
+      }
+    },
+    {
+      "id": 15,
+      "timestamp": "2026-02-24T23:31:24.311843",
+      "event_id": 6,
+      "analysis_type": "pattern_matching",
+      "severity": 5,
+      "result": {
+        "timestamp": "2026-02-24T23:31:24.311843",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Privilege Escalation",
+        "event_id": 6,
+        "event_timestamp": "2026-02-24T23:30:48.331601",
+        "severity": 5
+      }
+    },
+    {
+      "id": 10,
+      "timestamp": "2026-02-24T23:31:24.307645",
+      "event_id": 9,
+      "analysis_type": "pattern_matching",
+      "severity": 4,
+      "result": {
+        "timestamp": "2026-02-24T23:31:24.307645",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Sensitive File Access",
+        "event_id": 9,
+        "event_timestamp": "2026-02-24T23:30:52.889601",
+        "severity": 4
+      }
+    },
+    {
+      "id": 5,
+      "timestamp": "2026-02-24T23:31:10.525687",
+      "event_id": 17,
+      "analysis_type": "pattern_matching",
+      "severity": 4,
+      "result": {
+        "timestamp": "2026-02-24T23:31:10.525687",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Sensitive File Access",
+        "event_id": 17,
+        "event_timestamp": "2026-02-24T23:31:04.984074",
+        "severity": 4
+      }
+    },
+    {
+      "id": 6,
+      "timestamp": "2026-02-24T23:31:10.525687",
+      "event_id": 12,
+      "analysis_type": "pattern_matching",
+      "severity": 3,
+      "result": {
+        "timestamp": "2026-02-24T23:31:10.525687",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Suspicious Network Connection",
+        "event_id": 12,
+        "event_timestamp": "2026-02-24T23:30:57.424942",
+        "severity": 3
+      }
+    },
+    {
+      "id": 7,
+      "timestamp": "2026-02-24T23:31:10.525687",
+      "event_id": 14,
+      "analysis_type": "pattern_matching",
+      "severity": 3,
+      "result": {
+        "timestamp": "2026-02-24T23:31:10.525687",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Suspicious Network Connection",
+        "event_id": 14,
+        "event_timestamp": "2026-02-24T23:31:00.449129",
+        "severity": 3
+      }
+    },
+    {
+      "id": 8,
+      "timestamp": "2026-02-24T23:31:10.525687",
+      "event_id": 4,
+      "analysis_type": "pattern_matching",
+      "severity": 5,
+      "result": {
+        "timestamp": "2026-02-24T23:31:10.525687",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Privilege Escalation",
+        "event_id": 4,
+        "event_timestamp": "2026-02-24T23:30:45.306618",
+        "severity": 5
+      }
+    },
+    {
+      "id": 9,
+      "timestamp": "2026-02-24T23:31:10.525687",
+      "event_id": 6,
+      "analysis_type": "pattern_matching",
+      "severity": 5,
+      "result": {
+        "timestamp": "2026-02-24T23:31:10.525687",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Privilege Escalation",
+        "event_id": 6,
+        "event_timestamp": "2026-02-24T23:30:48.331601",
+        "severity": 5
+      }
+    },
+    {
+      "id": 4,
+      "timestamp": "2026-02-24T23:31:10.522468",
+      "event_id": 9,
+      "analysis_type": "pattern_matching",
+      "severity": 4,
+      "result": {
+        "timestamp": "2026-02-24T23:31:10.522468",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Sensitive File Access",
+        "event_id": 9,
+        "event_timestamp": "2026-02-24T23:30:52.889601",
+        "severity": 4
+      }
+    },
+    {
+      "id": 2,
+      "timestamp": "2026-02-24T23:30:55.596787",
+      "event_id": 4,
+      "analysis_type": "pattern_matching",
+      "severity": 5,
+      "result": {
+        "timestamp": "2026-02-24T23:30:55.596787",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Privilege Escalation",
+        "event_id": 4,
+        "event_timestamp": "2026-02-24T23:30:45.306618",
+        "severity": 5
+      }
+    },
+    {
+      "id": 3,
+      "timestamp": "2026-02-24T23:30:55.596787",
+      "event_id": 6,
+      "analysis_type": "pattern_matching",
+      "severity": 5,
+      "result": {
+        "timestamp": "2026-02-24T23:30:55.596787",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Privilege Escalation",
+        "event_id": 6,
+        "event_timestamp": "2026-02-24T23:30:48.331601",
+        "severity": 5
+      }
+    },
+    {
+      "id": 1,
+      "timestamp": "2026-02-24T23:30:55.594012",
+      "event_id": 9,
+      "analysis_type": "pattern_matching",
+      "severity": 4,
+      "result": {
+        "timestamp": "2026-02-24T23:30:55.594012",
+        "analysis_type": "pattern_matching",
+        "pattern_name": "Sensitive File Access",
+        "event_id": 9,
+        "event_timestamp": "2026-02-24T23:30:52.889601",
+        "severity": 4
+      }
+    }
+  ]
+}
